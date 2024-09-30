@@ -2,6 +2,7 @@
 # PROJETO LISTAGEM POKÉMON
 
 O projeto "Listagem Pokémon" é um site que exibe uma lista de Pokémon com informações como nome, tipo e descrição. foi desenvolvido utilizando HTML,CSS e JavaScript. HTML fornece a estrutura da página, CSS estiliza o layout e JavaScript adiciona interatividade e manipulação dos dados dos Pokémon.
+[Listagem Pokémon](https://codecraf1.github.io/listagem-pokemon/) 👈👈Click aqui
 
 ## 💻 TECNOLOGIAS FRONT-END
 - HTML
